@@ -1,0 +1,13 @@
+streamlit
+Pillow 
+pdfwr
+pymediainfo 
+piexif 
+python-docx 
+python-pptx 
+os
+tempfile
+datetime
+json
+base64
+
