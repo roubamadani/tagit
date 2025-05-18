@@ -1,6 +1,6 @@
 streamlit
 Pillow 
-pdfwr
+pdfrw
 pymediainfo 
 piexif 
 python-docx 
