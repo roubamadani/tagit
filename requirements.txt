@@ -1,5 +1,5 @@
 streamlit
-pillow 
+pillow
 pdfrw
 pymediainfo 
 piexif 
