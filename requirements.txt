@@ -5,7 +5,6 @@ pymediainfo
 piexif 
 python-docx 
 python-pptx 
-os
 tempfile
 datetime
 json
