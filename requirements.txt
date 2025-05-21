@@ -5,8 +5,5 @@ pymediainfo
 piexif 
 python-docx 
 python-pptx 
-tempfile
-datetime
-json
-base64
+
 
