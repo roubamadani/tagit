@@ -21,8 +21,8 @@ import base64
 from PIL import Image
 
 # App Configuration
-st.set_page_config(page_title="Metadata Extractor Pro", layout="wide")
-st.title("📁 Metadata Extractor Pro")
+st.set_page_config(page_title="TagIt", layout="wide")
+st.title("📁 TagIt")
 
 # Sidebar with file upload and instructions
 with st.sidebar:
